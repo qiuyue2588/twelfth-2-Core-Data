@@ -13,6 +13,8 @@
 		3F1A122D21C882E90018CB51 /* twelfth.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F1A122B21C882E90018CB51 /* twelfth.xcdatamodeld */; };
 		3F1A122F21C882EA0018CB51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F1A122E21C882EA0018CB51 /* Assets.xcassets */; };
 		3F1A123221C882EA0018CB51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F1A123021C882EA0018CB51 /* LaunchScreen.storyboard */; };
+		3F1A123A21C887170018CB51 /* PersonsTableTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1A123921C887170018CB51 /* PersonsTableTableTableViewController.swift */; };
+		3F1A123C21C887740018CB51 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1A123B21C887740018CB51 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3F1A122E21C882EA0018CB51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F1A123121C882EA0018CB51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F1A123321C882EA0018CB51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F1A123921C887170018CB51 /* PersonsTableTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonsTableTableTableViewController.swift; sourceTree = "<group>"; };
+		3F1A123B21C887740018CB51 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				3F1A123021C882EA0018CB51 /* LaunchScreen.storyboard */,
 				3F1A123321C882EA0018CB51 /* Info.plist */,
 				3F1A122B21C882E90018CB51 /* twelfth.xcdatamodeld */,
+				3F1A123921C887170018CB51 /* PersonsTableTableTableViewController.swift */,
+				3F1A123B21C887740018CB51 /* DetailViewController.swift */,
 			);
 			path = twelfth;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				3F1A122721C882E90018CB51 /* ViewController.swift in Sources */,
 				3F1A122521C882E90018CB51 /* AppDelegate.swift in Sources */,
+				3F1A123C21C887740018CB51 /* DetailViewController.swift in Sources */,
+				3F1A123A21C887170018CB51 /* PersonsTableTableTableViewController.swift in Sources */,
 				3F1A122D21C882E90018CB51 /* twelfth.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
